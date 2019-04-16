@@ -1246,6 +1246,14 @@ If anyone is reported as malicious or making others feel uncomfortable, they may
  - Topics - Angular, Vue
  - Location - Sofia, Bulgaria
  - Languages besides English - Bulgarian
+ 
+ #### Ioana Chiorean
+
+- [@ioana_cis](https://twitter.com/ioana_cis)
+- [LinkedIn](https://www.linkedin.com/in/ioanachiorean/)
+- Topics -Mobile & Web Technologies, Testing, Quality Assurance, Communities, Diversity & Inclusion, 
+- Location - Cluj-Napoca, Romania (can travel to other places)
+- Languages besides English - Romanian, Spanish, French
 
 ### India
 
